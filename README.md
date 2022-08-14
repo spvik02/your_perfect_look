@@ -1,16 +1,19 @@
 # forypldbauth
 
-A new Flutter application.
+Данное мобильное приложение было разработано в рамках курсового проекта "Программное обеспечение информационной безопасности мобильных систем".
 
-## Getting Started
+Мобильное приложение имеет простой, интуитивно понятный пользователю интерфейс и реализовывает следующие варианты использования:
 
-This project is a starting point for a Flutter application.
+- регистрация и авторизация пользователей;
+- работа с элементами гардероба (добавление, просмотр, редактирование, удаление, поиск по описанию);
+- работа с сочетаниями из добавленных элементов (добавление, просмотр, редактирование, удаление, публикациия, просмотр средней оценки сочетания);
+- просмотр профиля пользователя, изменение данных;
+- отправка письма на почту с запросом на оценку сочетания;
+- работа со списком друзей (отправка заявки на подписку; принятие, отклонения заявки; просмотр профиля пользователя, подтвердившего заявку; оценка сочтений, опубликованных пользователем, принявшим заявку);
 
-A few resources to get you started if this is your first Flutter project:
+#Диаграмма вариантов использования
+![image](https://user-images.githubusercontent.com/111181469/184532860-7b2b2809-15dd-47f7-b2a8-a529980cf153.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+#Демонстрация проекта
+![image](https://user-images.githubusercontent.com/111181469/184532902-b5dac671-90a8-4fd1-b832-dfba9a96cc9d.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
