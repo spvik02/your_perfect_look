@@ -27,7 +27,7 @@
 # Демонстрация проекта
 https://user-images.githubusercontent.com/111181469/184540993-7338796a-84d4-4d1a-8bd9-4557bcf2a121.mp4
 
-Серверная часть для обработки запросов и доступа к сущностям в базе данных. 
+[Серверная часть](https://github.com/spvik02/your_perfect_look_b) для обработки запросов и доступа к сущностям в базе данных. 
 
 ![image](https://user-images.githubusercontent.com/111181469/184541896-c90bb747-c966-477e-b3a1-f0960a83bfe9.png)
 
